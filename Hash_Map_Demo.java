@@ -24,3 +24,4 @@ public static void main(String[] args)
     System.out.println("Is the map empty? " + hash_map.isEmpty());
 }
 }
+This is testing purpose
